@@ -14,6 +14,12 @@ import android.view.MenuItem;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+// http://developer.android.com/reference/android/webkit/WebView.html
+// http://stackoverflow.com/questions/21378169/best-approach-to-pass-data-from-web-view-to-native-app-windows-ios-android
+// http://stackoverflow.com/questions/11752052/passing-data-from-java-class-to-web-view-html
+// http://developer.android.com/reference/android/webkit/WebView.html
+// http://developer.android.com/reference/android/webkit/WebViewClient.html#onPageStarted
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
